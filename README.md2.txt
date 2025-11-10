@@ -19,4 +19,9 @@
 - [Посилання на репозиторій](https://github.com/sergangaming-boop
 /oki-2024-lab8)
 
+## Сайт лабораторної роботи
+
+[Перейти на сайт](https://sergangaming-boop.github.io/oki-2025-lab8-panas/)
+
+
 ## Учасники команди
