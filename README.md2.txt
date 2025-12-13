@@ -14,14 +14,14 @@
 - [Перейти на сайт](https://sergangaming-boop
 .github.io/oki-2024-lab8)
 
-## Репозиторій
+# Лабораторна робота 8
 
-- [Посилання на репозиторій](https://github.com/sergangaming-boop
-/oki-2024-lab8)
+Це репозиторій для лабораторної роботи з Git та GitHub Pages.
 
 ## Сайт лабораторної роботи
 
 [Перейти на сайт](https://sergangaming-boop.github.io/oki-2025-lab8-panas/)
+
 
 
 ## Учасники команди
